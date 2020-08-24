@@ -1,16 +1,12 @@
-### Hi there 👋
+# Vinicius Amorim
 
-<!--
-**ViniciusCCO/ViniciusCCO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Olá pessoal 👋
+Estou cursando Ciências da Computação na Universidade São Judas (USJT). <br/>
+Sou apaixonado por programação e análise de dados :computer:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ :bank:  &nbsp; Sou estagiário no **Banco Bradesco**
+ <br/> :computer: &nbsp; Estou estudando atualmente a stack composta por: ReactJS, Node.js, React Native & Typescript
+ <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games e seriados
+ <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](<https://img.shields.io/badge/-ViniciusAmorim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-amorim-6505/>)](<https://www.linkedin.com/in/vinicius-amorim-6505/>) 
+| 
+[![Gmail Badge](<https://img.shields.io/badge/-vinicius.cco10@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vinicius.cco10@gmail.com>)](<mailto:vinicius.cco10@gmail.com>)
